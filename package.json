@@ -84,5 +84,6 @@
   },
   "overrides": {
     "esbuild": "^0.25.0"
-  }
+  },
+  "homepage": "https://otomatisasi-hub.github.io/notaris-rina"
 }
